@@ -5,105 +5,105 @@
       "displaytext": "Heroes",
       "centurionhawk": {
         "displaytext": "Centurion Hawk",
-        "isRare": "true",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
       },
       "deadlybladecrash": {
         "displaytext": "Deadly Blade Crash",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "trailblazerac": {
         "displaytext": "Trailblazer A.C.",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "basehype": {
         "displaytext": "BASE Hype",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       }
     },
     "hydraulicweapons": {
       "displaytext": "Hydraulic Weapons",
       "assaultrifles": {
         "displaytext": "Hydraulic Assault Rifles",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "shotguns": {
         "displaytext": "Hydraulic Shotguns",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "pistols": {
         "displaytext": "Hydraulic Pistols",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "snipers": {
         "displaytext": "Hydraulic Snipers",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "launchers": {
         "displaytext": "Hydraulic Launchers",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "swords": {
         "displaytext": "Hydraulic Swords",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "spears": {
         "displaytext": "Hydraulic Spears",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "hammers": {
         "displaytext": "Hydraulic Hammers",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       }
     },
     "crystalhydraulicweapons": {
       "displaytext": "Hydraulic Crystal Weapons",
       "assaultrifles": {
         "displaytext": "Hydraulic Crystal Assault Rifles",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "shotguns": {
         "displaytext": "Hydraulic Crystal Shotguns",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "pistols": {
         "displaytext": "Hydraulic Crystal Pistols",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "snipers": {
         "displaytext": "Hydraulic Crystal Snipers",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "swords": {
         "displaytext": "Hydraulic Crystal Swords",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "spears": {
         "displaytext": "Hydraulic Crystal Spears",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       },
       "hammers": {
         "displaytext": "Hydraulic Crystal Hammers",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isEpic": true,
+        "isLegend": true
       }
     }
   },
@@ -112,23 +112,264 @@
     "soldiers": {
       "displaytext": "Soldiers",
       "supportspecialist": {
-        "displaytext": "Support Specialist",
-        "isUncommon": "true",
-        "isRare": "true",
-        "isEpic": "true",
-        "isLegend": "true"
+        "displaytext": "Support Specialist Hawk",
+        "isUncommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
       },
       "specialforces": {
-        "displaytext": "Special Forces",
-        "isRare": "true",
-        "isEpic": "true",
-        "isLegend": "true"
+        "displaytext": "Special Forces Banshee",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+      },
+      "centurion": {
+        "displaytext": "Centurion Wildcat",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+      },
+      "warlord": {
+        "displaytext": "Mercenary Jonesy",
+        "isEpic": true,
+        "isLegend": true
+      },
+      "commando": {
+        "displaytext": "Commando Spitfire",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+      },
+      "rescuetrooper": {
+        "displaytext": "Rescue Trooper Ramirez",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+      },
+      "urbanassault": {
+        "displaytext": "Urban Assault Headhunter",
+        "isEpic": true,
+        "isLegend": true
+      },
+      "survivalist": {
+        "displaytext": "Survivalist Jonesy",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+      },
+      "shocktrooper": {
+        "displaytext": "Shock Trooper Renegade",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
       },
       "mastergrenadier": {
         "displaytext": "Master Grenadier Ramirez",
-        "isMythic": "true"
+        "isMythic": true
       }
-    }
+    },
+	"constructors": {
+	  "displaytext": "Constructors",
+	  "controller": {
+        "displaytext": "Controller Harper",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "plasmasentinel": {
+        "displaytext": "Sentinel Hype",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "kineticguardian": {
+        "displaytext": "Guardian Bull",
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "hotfixer": {
+        "displaytext": "Hotfixer Hazard",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "electropulse": {
+        "displaytext": "Electro-Pulse Penny",
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "tank": {
+        "displaytext": "Tank Penny",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "plasmashielder": {
+        "displaytext": "Shielder Izza",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "base": {
+        "displaytext": "BASE Kyle",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "powerbase": {
+        "displaytext": "Power BASE Knox",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "megabase": {
+        "displaytext": "MEGABASE Kyle",
+        "isMythic": true
+	  }
+	},
+	"ninjas": {
+	  "displaytext": "Ninjas",
+	  "brawler": {
+        "displaytext": "Brawler Luna",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "stonefoot": {
+        "displaytext": "Stonefoot Crash",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "skirmisher": {
+        "displaytext": "Skirmisher Edge",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "poisoner": {
+        "displaytext": "Smoke Assassin Venom",
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "dragon": {
+        "displaytext": "Dragon Scorch",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "fleetfoot": {
+        "displaytext": "Fleetfoot Ken",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "dimmak": {
+        "displaytext": "Dim Mak Mara",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "assassin": {
+        "displaytext": "Assassin Sarah",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "shruikenmaster": {
+        "displaytext": "Shuriken Master Sarah",
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "swordmaster": {
+        "displaytext": "Swordmaster Ken",
+        "isMythic": true
+	  }
+	},
+	"outlanders": {
+	  "displaytext": "Outlanders",
+	  "enforcer": {
+        "displaytext": "Enforcer Grizzly",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "reconscout": {
+        "displaytext": "Recon Scout Eagle Eye",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "vanguard": {
+        "displaytext": "Vanguard Southie",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "striker": {
+        "displaytext": "Striker A.C.",
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "trailblaster": {
+        "displaytext": "Trailblaster Buzz",
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "shockspecialist": {
+        "displaytext": "Shock Specialist A.C.",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "trailblazer": {
+        "displaytext": "Trailblazer Quinn",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "pathfinder": {
+        "displaytext": "Pathfinder Jess",
+		"isCommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "ranger": {
+        "displaytext": "Ranger Deadeye",
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
+	  },
+	  "phasescout": {
+        "displaytext": "Phase Scout Jess",
+        "isMythic": true
+	  }
+	}
+  },
+  "traps": {
+	"displaytext": "Traps",
+	"wall": {
+	  "displaytext": "Wall Traps",
+	  "darts": {
+		"displaytext": "Wall Darts",
+		"isUncommon": true,
+		"isRare": true,
+		"isEpic": true,
+		"isLegend": true
+	  }
+	}
   },
   "rangedweapons": {
     "displaytext": "Ranged Weapons",
@@ -136,11 +377,11 @@
       "displaytext": "Assault Rifles",
       "autorifles": {
         "displaytext": "Auto Rifles",
-        "isCommon": "true",
-        "isUncommon": "true",
-        "isRare": "true",
-        "isEpic": "true",
-        "isLegend": "true"
+        "isCommon": true,
+        "isUncommon": true,
+        "isRare": true,
+        "isEpic": true,
+        "isLegend": true
       }
     }
   }
