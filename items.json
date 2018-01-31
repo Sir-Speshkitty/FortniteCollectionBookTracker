@@ -1,67 +1,73 @@
 {
   "stormzone": {
+    "displaytext": "Storm Zone",
     "heroes": {
+      "displaytext": "Heroes",
       "centurionhawk": {
-        "isCommon": "false",
-        "isUncommon": "false",
+        "displaytext": "Centurion Hawk",
         "isRare": "true",
         "isEpic": "true",
-        "isLegend": "true",
-        "isMythic": "false"
+        "isLegend": "true"
       },
       "deadlybladecrash": {
-        "isCommon": "false",
-        "isUncommon": "false",
-        "isRare": "false",
+        "displaytext": "Deadly Blade Crash",
         "isEpic": "true",
-        "isLegend": "true",
-        "isMythic": "false"
+        "isLegend": "true"
       },
       "trailblazerac": {
-        "isCommon": "false",
-        "isUncommon": "false",
-        "isRare": "false",
+        "displaytext": "Trailblazer A.C.",
         "isEpic": "true",
-        "isLegend": "true",
-        "isMythic": "false"
+        "isLegend": "true"
       },
       "basehype": {
-        "isCommon": "false",
-        "isUncommon": "false",
-        "isRare": "false",
+        "displaytext": "BASE Hype",
         "isEpic": "true",
-        "isLegend": "true",
-        "isMythic": "false"
+        "isLegend": "true"
       }
     },
     "hydraulicweapons": {
-      "hydraulicassaultrifles": {
-        "isCommon": "false",
-        "isUncommon": "false",
-        "isRare": "false",
+      "displaytext": "Hydraulic Weapons",
+      "assaultrifles": {
+        "displaytext": "Hydraulic Assault Rifles",
         "isEpic": "true",
-        "isLegend": "true",
-        "isMythic": "false"
+        "isLegend": "true"
       }
     }
   },
   "heroes": {
+    "displaytext": "Heroes",
     "soldiers": {
+      "displaytext": "Soldiers",
       "supportspecialist": {
-        "isCommon": "false",
+        "displaytext": "Support Specialist",
         "isUncommon": "true",
         "isRare": "true",
         "isEpic": "true",
-        "isLegend": "true",
-        "isMythic": "false"
+        "isLegend": "true"
       },
       "specialforces": {
-        "isCommon": "false",
-        "isUncommon": "false",
+        "displaytext": "Special Forces",
         "isRare": "true",
         "isEpic": "true",
-        "isLegend": "true",
-        "isMythic": "false"
+        "isLegend": "true"
+      },
+      "mastergrenadier": {
+        "displaytext": "Master Grenadier Ramirez",
+        "isMythic": "true"
+      }
+    }
+  },
+  "rangedweapons": {
+    "displaytext": "Ranged Weapons",
+    "assaultrifles": {
+      "displaytext": "Assault Rifles",
+      "autorifles": {
+        "displaytext": "Auto Rifles",
+        "isCommon": "true",
+        "isUncommon": "true",
+        "isRare": "true",
+        "isEpic": "true",
+        "isLegend": "true"
       }
     }
   }
