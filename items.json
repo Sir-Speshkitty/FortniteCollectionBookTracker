@@ -1,0 +1,68 @@
+{
+  "stormzone": {
+    "heroes": {
+      "centurionhawk": {
+        "isCommon": "false",
+        "isUncommon": "false",
+        "isRare": "true",
+        "isEpic": "true",
+        "isLegend": "true",
+        "isMythic": "false"
+      },
+      "deadlybladecrash": {
+        "isCommon": "false",
+        "isUncommon": "false",
+        "isRare": "false",
+        "isEpic": "true",
+        "isLegend": "true",
+        "isMythic": "false"
+      },
+      "trailblazerac": {
+        "isCommon": "false",
+        "isUncommon": "false",
+        "isRare": "false",
+        "isEpic": "true",
+        "isLegend": "true",
+        "isMythic": "false"
+      },
+      "basehype": {
+        "isCommon": "false",
+        "isUncommon": "false",
+        "isRare": "false",
+        "isEpic": "true",
+        "isLegend": "true",
+        "isMythic": "false"
+      }
+    },
+    "hydraulicweapons": {
+      "hydraulicassaultrifles": {
+        "isCommon": "false",
+        "isUncommon": "false",
+        "isRare": "false",
+        "isEpic": "true",
+        "isLegend": "true",
+        "isMythic": "false"
+      }
+    }
+  },
+  "heroes": {
+    "soldiers": {
+      "supportspecialist": {
+        "isCommon": "false",
+        "isUncommon": "true",
+        "isRare": "true",
+        "isEpic": "true",
+        "isLegend": "true",
+        "isMythic": "false"
+      },
+      "specialforces": {
+        "isCommon": "false",
+        "isUncommon": "false",
+        "isRare": "true",
+        "isEpic": "true",
+        "isLegend": "true",
+        "isMythic": "false"
+      }
+    }
+  }
+}
