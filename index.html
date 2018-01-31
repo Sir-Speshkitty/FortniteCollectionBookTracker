@@ -4,10 +4,12 @@
     <script type="text/javascript" source="data.json"></script>
     <script>
       var mydata = JSON.parse("data.json");
-      alert(mydata);
+      var body = document.getElementsByTagName('body');
+      body.innerHTML = mydata;
+      //alert(mydata);
     </script>
   </head>
   <body>
-    test 2
+    test 3
   </body>
 </html>
