@@ -143,7 +143,7 @@
       },
       "rescuetrooper": {
         "displaytext": "Rescue Trooper Ramirez",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
@@ -155,7 +155,7 @@
       },
       "survivalist": {
         "displaytext": "Survivalist Jonesy",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
@@ -171,205 +171,205 @@
         "isMythic": true
       }
     },
-  "constructors": {
-    "displaytext": "Constructors",
-    "controller": {
+    "constructors": {
+      "displaytext": "Constructors",
+      "controller": {
         "displaytext": "Controller Harper",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "plasmasentinel": {
+      },
+      "plasmasentinel": {
         "displaytext": "Sentinel Hype",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "kineticguardian": {
+      },
+      "kineticguardian": {
         "displaytext": "Guardian Bull",
         "isEpic": true,
         "isLegend": true
-    },
-    "hotfixer": {
+      },
+      "hotfixer": {
         "displaytext": "Hotfixer Hazard",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "electropulse": {
+      },
+      "electropulse": {
         "displaytext": "Electro-Pulse Penny",
         "isEpic": true,
         "isLegend": true
-    },
-    "tank": {
+      },
+      "tank": {
         "displaytext": "Tank Penny",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "plasmashielder": {
+      },
+      "plasmashielder": {
         "displaytext": "Shielder Izza",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "base": {
+      },
+      "base": {
         "displaytext": "BASE Kyle",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "powerbase": {
+      },
+      "powerbase": {
         "displaytext": "Power BASE Knox",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "megabase": {
+      },
+      "megabase": {
         "displaytext": "MEGABASE Kyle",
         "isMythic": true
-    }
-  },
-  "ninjas": {
-    "displaytext": "Ninjas",
-    "brawler": {
+      }
+    },
+    "ninjas": {
+      "displaytext": "Ninjas",
+      "brawler": {
         "displaytext": "Brawler Luna",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "stonefoot": {
+      },
+      "stonefoot": {
         "displaytext": "Stonefoot Crash",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "skirmisher": {
+      },
+      "skirmisher": {
         "displaytext": "Skirmisher Edge",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "poisoner": {
+      },
+      "poisoner": {
         "displaytext": "Smoke Assassin Venom",
         "isEpic": true,
         "isLegend": true
-    },
-    "dragon": {
+      },
+      "dragon": {
         "displaytext": "Dragon Scorch",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "fleetfoot": {
+      },
+      "fleetfoot": {
         "displaytext": "Fleetfoot Ken",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "dimmak": {
+      },
+      "dimmak": {
         "displaytext": "Dim Mak Mara",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "assassin": {
+      },
+      "assassin": {
         "displaytext": "Assassin Sarah",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "shruikenmaster": {
+      },
+      "shruikenmaster": {
         "displaytext": "Shuriken Master Sarah",
         "isEpic": true,
         "isLegend": true
-    },
-    "swordmaster": {
+      },
+      "swordmaster": {
         "displaytext": "Swordmaster Ken",
         "isMythic": true
-    }
-  },
-  "outlanders": {
-    "displaytext": "Outlanders",
-    "enforcer": {
+      }
+    },
+    "outlanders": {
+      "displaytext": "Outlanders",
+      "enforcer": {
         "displaytext": "Enforcer Grizzly",
-    "isCommon": true,
+      "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "reconscout": {
+      },
+      "reconscout": {
         "displaytext": "Recon Scout Eagle Eye",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "vanguard": {
+      },
+      "vanguard": {
         "displaytext": "Vanguard Southie",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "striker": {
+      },
+      "striker": {
         "displaytext": "Striker A.C.",
         "isEpic": true,
         "isLegend": true
-    },
-    "trailblaster": {
+      },
+      "trailblaster": {
         "displaytext": "Trailblaster Buzz",
         "isEpic": true,
         "isLegend": true
-    },
-    "shockspecialist": {
+      },
+      "shockspecialist": {
         "displaytext": "Shock Specialist A.C.",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "trailblazer": {
+      },
+      "trailblazer": {
         "displaytext": "Trailblazer Quinn",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "pathfinder": {
+      },
+      "pathfinder": {
         "displaytext": "Pathfinder Jess",
-    "isCommon": true,
+        "isCommon": true,
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "ranger": {
+      },
+      "ranger": {
         "displaytext": "Ranger Deadeye",
         "isRare": true,
         "isEpic": true,
         "isLegend": true
-    },
-    "phasescout": {
+      },
+      "phasescout": {
         "displaytext": "Phase Scout Jess",
         "isMythic": true
+      }
     }
-  }
   },
   "traps": {
-  "displaytext": "Traps",
-  "wall": {
-    "displaytext": "Wall Traps",
-    "darts": {
-    "displaytext": "Wall Darts",
-    "isUncommon": true,
-    "isRare": true,
-    "isEpic": true,
-    "isLegend": true
+    "displaytext": "Traps",
+    "wall": {
+      "displaytext": "Wall Traps",
+      "darts": {
+      "displaytext": "Wall Darts",
+      "isUncommon": true,
+      "isRare": true,
+      "isEpic": true,
+      "isLegend": true
+      }
     }
-  }
   },
   "rangedweapons": {
     "displaytext": "Ranged Weapons",
