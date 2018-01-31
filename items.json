@@ -31,6 +31,79 @@
         "displaytext": "Hydraulic Assault Rifles",
         "isEpic": "true",
         "isLegend": "true"
+      },
+      "shotguns": {
+        "displaytext": "Hydraulic Shotguns",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "pistols": {
+        "displaytext": "Hydraulic Pistols",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "snipers": {
+        "displaytext": "Hydraulic Snipers",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "launchers": {
+        "displaytext": "Hydraulic Launchers",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "swords": {
+        "displaytext": "Hydraulic Swords",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "spears": {
+        "displaytext": "Hydraulic Spears",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "hammers": {
+        "displaytext": "Hydraulic Hammers",
+        "isEpic": "true",
+        "isLegend": "true"
+      }
+    },
+    "crystalhydraulicweapons": {
+      "displaytext": "Hydraulic Crystal Weapons",
+      "assaultrifles": {
+        "displaytext": "Hydraulic Crystal Assault Rifles",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "shotguns": {
+        "displaytext": "Hydraulic Crystal Shotguns",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "pistols": {
+        "displaytext": "Hydraulic Crystal Pistols",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "snipers": {
+        "displaytext": "Hydraulic Crystal Snipers",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "swords": {
+        "displaytext": "Hydraulic Crystal Swords",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "spears": {
+        "displaytext": "Hydraulic Crystal Spears",
+        "isEpic": "true",
+        "isLegend": "true"
+      },
+      "hammers": {
+        "displaytext": "Hydraulic Crystal Hammers",
+        "isEpic": "true",
+        "isLegend": "true"
       }
     }
   },
