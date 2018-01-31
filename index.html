@@ -3,6 +3,7 @@
     <title>Example Title</title>
     <script type="text/javascript" source="items.json"></script>
     <script type="text/javascript">
+      var items = require("items.json");
       var mydata = JSON.parse(items);
       var body = document.getElementsByTagName('body');
       body.innerHTML = mydata;
@@ -10,6 +11,6 @@
     </script>
   </head>
   <body>
-    test 4
+    test 5
   </body>
 </html>
